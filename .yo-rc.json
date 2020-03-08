@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.10.0",
+    "libraryName": "sp-fx-google-analytics",
+    "libraryId": "b9430d6a-db13-4899-840d-581cdb531dfe",
+    "environment": "onprem19",
+    "packageManager": "npm",
+    "isCreatingSolution": true,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
